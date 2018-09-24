@@ -9,3 +9,7 @@
 .Rose {
   background-color: #DB0A5B;
 }
+
+li {
+  list-style-type: none;
+}
